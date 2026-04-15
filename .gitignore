@@ -1,0 +1,21 @@
+ # Virtual Environment - never upload this (too large)
+venv/
+
+# Python cache files - not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables (passwords, API keys)
+.env
+
+# Large data files (upload separately)
+*.zip
+*.rar
